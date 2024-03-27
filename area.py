@@ -8,4 +8,4 @@ class Rectangle:
 
 r = Rectangle(2.2, 1.4)
 a = r.area()
-print(f"Area is {a}");
+print(f"Area is {a}")
