@@ -6,7 +6,6 @@ class Rectangle:
     def area(self):
         return self.width * self.length
 
-
 r = Rectangle(2.2, 1.4)
 
 a = r.area()
