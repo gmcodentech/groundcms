@@ -5,7 +5,7 @@ class Rectangle:
 
     def area(self):
         return self.width * self.length
-
+#This is a single line comment
 
 r = Rectangle(2.2, 1.4)
 
